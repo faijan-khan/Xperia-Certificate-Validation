@@ -108,7 +108,7 @@ For **verifying** certificate authenticity
 
 ## 📽️ Demo
 
-👉 [Watch Project Demo on YouTube](https://youtu.be/PlmYDAvtC7E)
+👉 [![YouTube Demo](https://img.shields.io/badge/Watch%20Demo%20on-YouTube-red?logo=youtube)](https://youtu.be/PlmYDAvtC7E)
 
 ---
 
